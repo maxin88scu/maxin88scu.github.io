@@ -12,6 +12,11 @@ Prototype-anchored Learning and Alignment*<br>
 **Xin Ma**<sup>\*</sup>, Yifan Wang<sup>\*</sup>, Siyu Yi, Wei Ju, Bei Wu, Ziyue Qiao, Chenwei Tang, Jiancheng Lv <br>
 International Joint Conference on Artificial Intelligence <br>
 ***IJCAI 2025, <span style="color:none">CCF-A</span>***
+-  1.  *Dual Prototype-Enhanced Contrastive Framework for
+Class-Imbalanced Graph Domain Adaptation*<br>
+**Xin Ma**<sup>\*</sup>, Yifan Wang<sup>\*</sup>, Siyu Yi, Wei Ju, Junyu Luo, Yusheng Zhao, Xiao Luo, Jiancheng Lv  <br>
+Advances in Neural Information Processing Systems <br>
+***NeurIPS 2025, <span style="color:none">CCF-A</span>***
 
 <!-- You can also find my articles on <u><a href="https://scholar.google.com/citations?user=pppQSXgAAAAJ&hl=en">my Google Scholar profile</a>.</u> -->
 <!-- (\* Equal Contribution) -->
